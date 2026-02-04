@@ -62,7 +62,7 @@ Atividade_Pratica_AP1
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/Webers0n/nome-do-repositorio.git
+   git clone https://github.com/Webers0n/Atividade-AP1-Programa-o-com-Interface.git
    ```
 
 2. Abra o projeto no **Visual Studio**
